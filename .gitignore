@@ -1,0 +1,20 @@
+## LaTeX - Intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.pdf
+
+## Python/Jupyter (if you have scripts)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+## OS specific files
+.DS_Store
+Thumbs.db
